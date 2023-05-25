@@ -1,2 +1,1 @@
-# RepositorioHenry
-Homework exercise 1 modulo 2
+ola ke ase
